@@ -1,0 +1,2 @@
+# Optional: enable .xls support
+# xlrd>=2.0
